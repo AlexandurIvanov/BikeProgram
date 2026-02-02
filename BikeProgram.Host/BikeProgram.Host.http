@@ -1,0 +1,6 @@
+@BikeProgram.Host_HostAddress = http://localhost:5250
+
+GET {{BikeProgram.Host_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
